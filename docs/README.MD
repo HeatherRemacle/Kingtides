@@ -1,3 +1,5 @@
+[!King Tides Project - Snap the shore, See the future](/images/KTPsite-header-intl.png)
+
 # Communities around the world are joining the King Tides Project.
 ### We are an international network bringing awareness to climate change and the impact of sea level rise.
 
