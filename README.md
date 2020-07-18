@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to KingTides Project GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/HeatherRemacle/Kingtides/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The Kingtides community is a global network of people who organize events to raise awareness of global warming impacts on our shorelines, due to sea level rise. This repository hosts a basic Kingtides website anyone can copy to create their own local organizing site.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This repository also provides the source files for developing a customized Kingtides Project logo.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HeatherRemacle/Kingtides/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you would like help setting up a site, please create an issue here, and the contributors to this repo will be notified.
+
+Thank you for your contribution to climate action!
