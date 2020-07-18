@@ -1,5 +1,5 @@
-#Communities around the world are joining the King Tides Project.
-###We are an international network bringing awareness to climate change and the impact of sea level rise.
+# Communities around the world are joining the King Tides Project.
+### We are an international network bringing awareness to climate change and the impact of sea level rise.
 
 ## About the Project
 King Tides Project International is an initiative delivered by a network of organizers on coastlines around the world. We are citizen scientists, capturing data and images showing what the future sea levels will be and what is at risk.
