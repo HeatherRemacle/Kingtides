@@ -11,7 +11,7 @@ The term ‘king tide’ refers to high tide events occurring twice a year, when
 
 When king tides occur during cyclones, floods or storms, water levels can rise to higher levels and have the potential to cause great damage to property and the coastline. These events help us to see where we are vulnerable to sea level rise.
 
-- [Learn more about king tides, sea level rise and the connection to climate change.](about-kingtides.md)
+- [Learn more about king tides, sea level rise and the connection to climate change.](./about-kingtides.html)
 
 ## Participate
 
@@ -19,16 +19,16 @@ When king tides occur during cyclones, floods or storms, water levels can rise t
 
 This website is a hub connecting King Tides Project participants and organizers around the world. Use the Google map to find a King Tides Project near you. 
 
-- Have a project to add? [Contribute details here.](add-project.md)
-- Don't see a local project? [Discover how to lead a project](lead.md)
+- Have a project to add? [Contribute details here.](./add-project.html)
+- Don't see a local project? [Discover how to lead a project](./lead.html)
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1o2U1HoaT9Lgi4qowx2ujf2sqBaw" width="640" height="480"></iframe>
 
 ## Make the most of your King Tides Experience:
 
-- [Plan your photo shoot](plan-your-shoot.md)
-- [Use your photos to have an impact on climate action](share-photos.md)
-- [Build curriculum around king tides](curriculum.md)
+- [Plan your photo shoot](./plan-your-shoot.html)
+- [Use your photos to have an impact on climate action](./share-photos.html)
+- [Build curriculum around king tides](./curriculum.html)
 
 ## About Us
 
