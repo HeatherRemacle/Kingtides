@@ -1,12 +1,8 @@
 ---
 layout: default
-title: Home Page
-description: King Tides Project Home
+title: Communities around the world are joining the King Tides Project.
+description: We are an international network bringing awareness to climate change and the impact of sea level rise.
 ---
-
-![King Tides Project - Snap the shore, See the future](/images/KTPsite-header-intl.png)
-# Communities around the world are joining the King Tides Project.
-### We are an international network bringing awareness to climate change and the impact of sea level rise.
 
 Local projects are lead by citizen scientists on coastlines around the world. They capture data and images to show what the future sea levels will be. This helps communities
 understand how sea level rise will impact their lives.
