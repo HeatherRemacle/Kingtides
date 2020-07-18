@@ -2,3 +2,5 @@ remote_theme: pmarsceill/just-the-docs
 
 title: [King Tides Project]
 description: [King Tides Project International is an initiative delivered by a network of organizers on coastlines around the world. It helps people all over the world understand how sea level rise will impact their lives.]
+
+theme: jekyll-theme-cayman
