@@ -8,11 +8,10 @@ description: King Tides Project Home
 # Communities around the world are joining the King Tides Project.
 ### We are an international network bringing awareness to climate change and the impact of sea level rise.
 
-King Tides Project International is an initiative delivered by a network of organizers on coastlines around the world. We are citizen scientists, capturing data and images showing what the future sea levels will be and what is at risk.
+Local projects are lead by citizen scientists on coastlines around the world. They capture data and images to show what the future sea levels will be. This helps communities
+understand how sea level rise will impact their lives.
 
-The King Tides Project helps people all over the world understand how sea level rise will impact their lives.
-
-While the term ‘king tide’ refers to high tide events occurring twice a year, when there is alignment of the gravitational pull between sun and moon.
+The term ‘king tide’ refers to high tide events occurring twice a year, when there is alignment of the gravitational pull between sun and moon.
 
 When king tides occur during cyclones, floods or storms, water levels can rise to higher levels and have the potential to cause great damage to property and the coastline. These events help us to see where we are vulnerable to sea level rise.
 
@@ -22,7 +21,7 @@ When king tides occur during cyclones, floods or storms, water levels can rise t
 
 **The King Tides Project is a fun way to explore your community, while supporting scientists and decision makers to plan for future sea level rise.**
 
-This website is the hub connecting King Tides Project participants and organizers around the world. Use the Google map to find a  King Tides project near you. 
+This website is a hub connecting King Tides Project participants and organizers around the world. Use the Google map to find a King Tides Project near you. 
 
 - Have a project to add? [Contribute details here.](add-project.md)
 - Don't see a local project? [Discover how to lead a project](lead.md)
