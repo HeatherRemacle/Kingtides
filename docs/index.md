@@ -25,11 +25,11 @@ When king tides occur during cyclones, floods or storms, water levels can rise t
 This website is the hub connecting King Tides Project participants and organizers around the world. Use the Google map to find a  King Tides project near you. 
 
 - Have a project to add? [Contribute details here.](add-project.md)
-- Don't see a local project?[Discover how to lead a project](lead.md)
+- Don't see a local project? [Discover how to lead a project](lead.md)
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1o2U1HoaT9Lgi4qowx2ujf2sqBaw" width="640" height="480"></iframe>
 
-##Make the most of your King Tides Experience:
+## Make the most of your King Tides Experience:
 
 - [Plan your photo shoot](plan-your-shoot.md)
 - [Use your photos to have an impact on climate action](share-photos.md)
