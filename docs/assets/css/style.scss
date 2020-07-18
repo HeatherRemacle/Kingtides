@@ -2,3 +2,44 @@
 ---
 
 @import "{{ site.theme }}";
+
+h1 {
+  text-align: Left;
+  font-size: 1em;
+  color: #005b96;
+  margin-bottom: .3em;
+  text-decoration: underline;
+}
+
+h2 {
+  text-align: Left;
+  font-size: 1em;
+  color: #6497b1;
+  margin-bottom: .3em;
+  text-decoration: underline;
+}
+
+table {
+  margin: .3em;
+  width: 290px;
+}
+
+th {
+  padding: .2em;
+}
+
+td {
+  padding-left: .5em;
+  padding-right: .5em;
+  border: 1px solid #900;
+  background-color: #ffc;
+}
+
+#trHeader {
+  text-decoration: underline;
+  color: #900;
+}
+
+.centerCell {
+  text-align: center;
+}
