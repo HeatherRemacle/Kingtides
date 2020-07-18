@@ -6,14 +6,25 @@ King Tides Project International is an initiative delivered by a network of orga
 
 The King Tides Project helps people all over the world understand how sea level rise will impact their lives.
 
+While the term ‘king tide’ refers to high tide events occurring twice a year, when there is alignment of the gravitational pull between sun and moon.
+
+When king tides occur during cyclones, floods or storms, water levels can rise to higher levels and have the potential to cause great damage to property and the coastline. These events help us to see where we are vulnerable to sea level rise.
+
+- [Learn more about king tides, sea level rise and the connection to climate change.](/about-project)
+
 ## Participate
 
-The King Tides Project is a fun way to explore your community, while supporting scientists and decision makers to plan for future sea level rise.
+**The King Tides Project is a fun way to explore your community, while supporting scientists and decision makers to plan for future sea level rise.**
 
-There is also an opportunity to connect with participants and organizers around the world.
+This website is the hub connecting King Tides Project participants and organizers around the world. Here's how you can participate:
+- [Plan your photo shoot](/plan-your-shoot)
+- [Share your photos](/share-your-photos)
+- [Lead a project](/lead)
 
-## What are King Tides?
+Use this Google map to find a local King Tides project near you. **Have a project to add? [Contribute details here.](link to google form)** 
 
-While the term ‘king tide’ isn’t a scientific term, it is used to describe an especially high tide event occurring twice a year, when there is alignment of the gravitational pull between sun and moon.
+<iframe src="https://www.google.com/maps/d/embed?mid=1o2U1HoaT9Lgi4qowx2ujf2sqBaw" width="640" height="480"></iframe>
 
-When king tides occur during cyclones, floods or storms, water levels can rise to higher levels and have the potential to cause great damage to property and the coastline.
+## About Us
+
+The Project started in Australia in 2009 and has since grown and expanded, especially in North America. [Learn more about our history, mission and ways of working.](/about)
