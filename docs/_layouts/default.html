@@ -20,10 +20,51 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <!-- Favicon head tag -->
     <link rel="icon" href="image/favicon.ico" type="image/png">
-</head>
+     <!-- Navbar head tag -->
+  
+<style>
+body {margin:0;}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background: #ddd;
+  color: #3b5998;
+}
+
+.main {
+  padding: 16px;
+  margin-top: 30px;
+  height: 1500px; /* Used in this example to enable scrolling */
+}
+</style>  
   </head>
   <body>
     <a href="https://heatherremacle.github.io/Kingtides/index.md"> <img src="images/KTPsite-header-intl.png" alt="King tides project home page"></a>
+   <div class="navbar">
+  <a href="index">Home</a>
+  <a href="about">About</a>
+  <a href="participate">Participate</a>
+  <a href="add-project">Add a project</a>
+</div>
+
+<div class="main">
 
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title  }}</h1>
