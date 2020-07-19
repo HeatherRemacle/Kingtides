@@ -3,6 +3,7 @@ layout: default
 title: What is Sea Level Rise?
 description: Sea level rise is a symptom of a warming planet.
 ---
+
 For millions of years, the average temperature of  Earth has allowed a certain amount of moisture to be locked up in frozen reservoirs: glaciers and polar ice caps. This is changing very quickly due to the extreme volume of greenhouse gases humans are releasing into the atmosphere.
 
 Additionally, as the ocean warms, it expands and it’s volume increases.
