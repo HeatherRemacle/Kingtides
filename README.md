@@ -6,7 +6,7 @@ This repository hosts the international King Tides Project website.
 
 ## Contributing
 
-The site is currently in it alpha state - we're putting the final touches on to redirect the kingtides.net domain here (and we'll be shutting down our current Wordpress site).
+The site is currently in alpha state - we're putting the final touches on to redirect the kingtides.net domain here (and we'll be shutting down our current Wordpress site).
 
 [You can see the site in progress here for now.](https://heatherremacle.github.io/Kingtides/)
 
