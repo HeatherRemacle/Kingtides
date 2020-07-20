@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Communities around the world are joining the King Tides Project.
-description: We are an international network bringing awareness to climate change and the impact of sea level rise.
+title: King Tides
+description: Bringing awareness to climate change and the impact of sea level rise.
 ---
 
 Local projects are lead by citizen scientists on coastlines around the world. They capture data and images to show what the future sea levels will be. This helps communities
 understand how sea level rise will impact their lives.
 
-![staircase to the sea](http://kingtides.net/wp-content/uploads/2011/09/staircase_to_the_sea.jpg)
+![staircase to the sea](images/staircase_to_the_sea_king-tides.jpg)
 
 The term ‘king tide’ refers to high tide events occurring twice a year, when there is alignment of the gravitational pull between sun and moon.
 
