@@ -22,7 +22,7 @@ When king tides occur during cyclones, floods or storms, water levels can rise t
 
 For millions of years, the average temperature of Earth has allowed a certain amount of moisture to be locked up in frozen reservoirs: glaciers and polar ice caps. This is changing very quickly due to the extreme volume of greenhouse gases humans are releasing into the atmosphere.
 
-- [Learn more about sea level rise.](/learn-sea-level-rise)
+- [Learn more about sea level rise.](learn-about-sea-level-rise.md)
 
 # Sea level rise, climate change and king tides
 
