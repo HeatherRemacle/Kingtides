@@ -15,6 +15,6 @@ Here are a few highlights that illustrate the kinds of experience people are cap
 
 ## Fort Lauderdale Florida - Preparing the Community
 
-The impact of King Tides is [helping this city to communicate with it's residences](https://www.fortlauderdale.gov/departments/city-manager-s-office/strategic-communications/king-tides) about the impacts of high water now, and in the future. 
+King Tides is [helping this city to communicate with residents](https://www.fortlauderdale.gov/departments/city-manager-s-office/strategic-communications/king-tides) about the impacts of high water now, and in the future. 
 
 [![Fort Lauderdale Report](/images/fort-lauderdale-projects.jpg)](https://www.fortlauderdale.gov/home/showdocument?id=18770)
