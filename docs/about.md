@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About Us
-description: We're on a mission to illuminate the local impacts of the global challenge of climate change to our coastlines.
+description: Since 2009, King Tides organizers have been documenting high water events to sense what is to come with climate change.
 ---
 
 ## Our Mission
