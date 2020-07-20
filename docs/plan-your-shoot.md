@@ -22,7 +22,7 @@ The best time to take photos is at the peak of the tide when the water level is 
 
 Arrive at your chosen site a few minutes early.  Researchers can only use images that are taken within 45 minutes of the high tide peak, so the total window of time to take photographs is 1.5 hours (45 minutes before the peak, and 45 minutes after the peak)
 
-##What information to collect?
+## What information to collect?
 
 Remember to take note of the time, date, location, and orientation of your photos so that you can include this information when you share them. Take note of  the weather and anything interesting that you see.
 
