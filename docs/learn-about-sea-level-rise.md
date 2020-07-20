@@ -21,10 +21,13 @@ Geo-science experts help us to understand these factors, and have lead to data s
 
 While those living directly on the coast will feel the impacts most directly, others will suffer from coastal flooding. Some examples:
 
-- If you pay taxes to a regional government that has infrastructure on the coast, your taxes will likely go up – whether or not your home is on the coast.
+- If you pay taxes to a regional government that has infrastructure on the coast, your taxes will likely go up – whether or not your home is on the coast. (Low-lying roads, wastewater treatment facilities, energy facilities, stormwater infrastructure, potable water systems, and electricity transfer systems are at risk of inundation and flooding, and impaired function.)
 - Sunshine destinations with economies reliant on beach going tourists, and tourism travel industry, will suffer the costs of  reduced visitation in addition to adaptation measures.
 - Food production in coastal flood plains can be adversely affected by flooding and saltwater intruding groundwater  irrigation sources, impacting worldwide markets for produce.
+- Public access & recreation will be impacted by loss of beaches or other recreation areas are immediately adjacent to the beach.
+- Archeological and paleontological sites, including Indigenous villages, religious and ceremonial locations, burial sites, and other areas could be at risk from sea-level rise.
 
 Learn more about how sea level rise will affect you.
-![diagram of salt water intrusion](/images/gw-sewater-intrusion2.gif)
-[Credit: Sabrina Doyle [Click for more information about slatwater in wells]](https://sabrinadoyle.com/2011/07/26/researchers-monitoring-salt-water-in-wells/)
+
+![diagram of salt water intrusion](images/gw-sewater-intrusion2.gif)
+[Credit: Sabrina Doyle [Click for more information about saltwater in wells]](https://sabrinadoyle.com/2011/07/26/researchers-monitoring-salt-water-in-wells/)
