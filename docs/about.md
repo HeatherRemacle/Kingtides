@@ -1,4 +1,8 @@
-# About us
+---
+layout: default
+title: About Us
+description: We're on a mission to illuminate the local impacts of the global challenge of climate change to our coastlines.
+---
 
 ## Our Mission
 
@@ -12,8 +16,9 @@ The pictures that people take help scientists and managers better understand and
 
 The King Tides Project has two goals:
 
-1. Educate the public about sea level rise. Millions of people  – many of whom are physically, socially, or economically disadvantaged – live in areas which will be vulnerable or uninhabitable within the next 50 years. Yet most people don’t understand these risks, and support for adaptation planning is weak. We aim to help people understand what’s at risk and how they can be part of the adaptation solution.
-2. Create a catalogue of hyperlocal flood risk data for researchers and decision makers. Around the world, trillions of dollars worth of private property, public infrastructure, and businesses are at risk, but flood prediction models often lack good validation data, and parcel-scale information needed for municipal planning is missing. We help fill those gaps through our innovative citizen science.
+1. **Educate the public about sea level rise.** Millions of people  – many of whom are physically, socially, or economically disadvantaged – live in areas which will be vulnerable or uninhabitable within the next 50 years. Yet most people don’t understand these risks, and support for adaptation planning is weak. We aim to help people understand what’s at risk and how they can be part of the adaptation solution.
+
+2. **Create a catalogue of hyperlocal flood risk data for researchers and decision makers.** Around the world, trillions of dollars worth of private property, public infrastructure, and businesses are at risk, but flood prediction models often lack good validation data, and parcel-scale information needed for municipal planning is missing. We help fill those gaps through our innovative citizen science.
 
 ## How We Work
 
