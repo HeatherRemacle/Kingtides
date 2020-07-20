@@ -34,7 +34,7 @@ Use the Google map below to find a King Tides Project near you.  [Learn how how 
 Since this initiative started in 2009, organizers have contributed some excellent guidance and resources to help others.
 
 - [Plan your photo shoot](plan-your-shoot)
-- [Build curriculum around king tides](curriculum)
+- Build curriculum around king tides (coming soon!)
 
 ## About Us
 
