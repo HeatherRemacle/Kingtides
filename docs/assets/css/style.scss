@@ -33,3 +33,15 @@
   margin-top: 30px; /* Add a top margin to avoid content overlay */
 }
 
+/* Responsive Grid */
+
+.grid {
+  display: grid;
+  box-sizing: border-box;
+}
+  
+  .grid-item {
+  padding: 10px;
+  width: 50%;
+  text-align: center;
+  }
