@@ -14,25 +14,27 @@ The term ‘king tide’ refers to high tide events occurring twice a year, when
 When king tides occur during cyclones, floods or storms, water levels can rise to higher levels and have the potential to cause great damage to property and the coastline. These events help us to see where we are vulnerable to sea level rise.
 
 <div class="grid">
-  <div class="grid-item">![sea-level-rise](featured-event-376x160.png)[Learn more about king tides, sea level rise and the connection to climate change.](learn-about-kingtides.html)</div>
-  <div class="grid-item">![sea-level-rise](featured-photographer-376x160.png)[See a collection of some of the incredible images and videos from community around the world](experience.html)</div>
+  <div class="grid-item">![sea-level-rise](featured-event-376x160.png)
+    [Learn more about king tides, sea level rise and the connection to climate change.](learn-about-kingtides.html)
+  </div>
+  <div class="grid-item">![sea-level-rise](featured-photographer-376x160.png)
+    [See a collection of some of the incredible images and videos from community around the world](experience.html)
+  </div>
 </div>
 
 ## Participate
 
 **The King Tides Project is a fun way to explore your community, while supporting scientists and decision makers to plan for future sea level rise.**
 
-This website is a hub connecting King Tides Project participants and organizers around the world. Use the Google map to find a King Tides Project near you. 
-
-- Have a project to add? [Contribute details here.](participate/#)
-- Don't see a local project? [Discover how to lead a project](lead)
+Use the Google map below to find a King Tides Project near you.  [Learn how how else you can participate.](participate/#)
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1o2U1HoaT9Lgi4qowx2ujf2sqBaw" width="640" height="480"></iframe>
 
 ## Make the most of your King Tides experience:
 
+Since this initiative started in 2009, organizers have contributed some excellent guidance and resources to help others.
+
 - [Plan your photo shoot](plan-your-shoot)
-- [Use your photos to have an impact on climate action](share-photos)
 - [Build curriculum around king tides](curriculum)
 
 ## About Us
