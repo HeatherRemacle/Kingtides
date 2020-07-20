@@ -13,11 +13,11 @@ The term ‘king tide’ refers to high tide events occurring twice a year, when
 
 When king tides occur during cyclones, floods or storms, water levels can rise to higher levels and have the potential to cause great damage to property and the coastline. These events help us to see where we are vulnerable to sea level rise.
 
-![sea-level-rise](featured-event-376x160.png) 
+![sea-level-rise](images/featured-event-376x160.png) 
 
 > [Learn more about king tides, sea level rise and the connection to climate change.](learn-about-kingtides)
 
-![sea-level-rise](featured-photographer-376x160.png)
+![sea-level-rise](images/featured-photographer-376x160.png)
 
 > [See a collection of some of the incredible images and videos from community around the world](experience)
 
